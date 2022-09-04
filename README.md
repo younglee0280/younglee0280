@@ -1,7 +1,6 @@
 # younglee0280
 
-## This is a H2 Hi there! 
-I'm interested in being a backend developer! 
+## I'm interested in being a backend developer! 
 
 
 About me
