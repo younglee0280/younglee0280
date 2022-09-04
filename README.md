@@ -2,17 +2,26 @@
 ### I'm Lee, interested in being a Backend Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 
-
+-----------------------------------------------------------------------
 ### About me
 
-💡 NOW I’m currently learning Basic Programming skills like C, JAVA, PYTHON, CSS, and JavaScript. Also Oracle, MySQL <br/> 
+💡 NOW I’m currently learning Basic Programming skills like C, JAVA, PYTHON, CSS, and JavaScript.
+  And also Oracle, MySQL. <br/> 
 📫 How to contact me : younglee0280@gmail.com 
 
-
+------------------------------------------------------------------------
 ### Lastest Projects
 
 
 
+
+
+### Interest 
+
+
+
+
+------------------------------------------------------------------------
 ### Languages and Tools
 
 <p>
@@ -34,6 +43,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
 </p>
 
+
+------------------------------------------------------------------------------------------------------
 
 
 
