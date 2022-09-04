@@ -1,4 +1,4 @@
-### Hello, there! 
+### Hello there! 
 ### I'm Lee, interested in being a Backend Developer <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 
