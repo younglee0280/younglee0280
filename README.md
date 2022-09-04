@@ -1,28 +1,26 @@
 <h1 align= 'center'> Hello there! I'm Lee, interested in being a Backend Developer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 
 
-<p align= 'center'> Interested in being a Backend Developer! </p>
 
-
-<p align= 'center'> About me
+### About me
 
 💡 NOW I’m currently learning Basic Programming skills like C, JAVA, PYTHON, CSS, and JavaScript.
   And also Oracle, MySQL. <br/> 
 📫 How to contact me : younglee0280@gmail.com </p>
 
-------------------------------------------------------------------------
-### Lastest Projects
 
+### Lastest Projects
+<h2></h2>
 
 
 
 
 ### Interest 
+<h3></h3>
 
 
 
 
-------------------------------------------------------------------------
 ### Languages and Tools
 
 <p>
@@ -45,7 +43,6 @@
 </p>
 
 
-------------------------------------------------------------------------------------------------------
 
 
 
