@@ -17,8 +17,7 @@
 
 
 ### Interest 
-Backend develop
-Frontend develop
+Backend develop & Frontend develop
 
 
 
