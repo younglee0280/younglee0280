@@ -2,9 +2,9 @@
 
 
 ### About me
-🍀 개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하는 걸 즐깁니다<br/>
+🍀개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하는 걸 즐깁니다<br/>
 💡 NOW I’m currently learning Basic Programming skills like C, JAVA, PYTHON, JavaScript.
-  And also learning DB like Oracle, MySQL, h2 database. <br/>
+   And also learning DB like Oracle, MySQL, h2 database. <br/>
 📫 How to contact me : younglee0280@gmail.com </p>
 <br>
 </br>
