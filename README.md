@@ -10,7 +10,6 @@
 </br>
 
 ### Lastest Projects
-[Personal Backup] https://github.com/younglee0280/
 <br>
 </br>
 
