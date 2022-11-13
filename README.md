@@ -1,5 +1,6 @@
 ### "찐" 개발자가 되기 위해 스텝 업 중 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 
+<br></br>
 
 
 ### About me
@@ -7,11 +8,6 @@
 💡 NOW I’m currently learning Basic Programming skills like C, JAVA, PYTHON, JavaScript.
    And also learning DB like Oracle, MySQL, h2 database. <br/>
 📫 How to contact me : younglee0280@gmail.com </p>
-<br>
-</br>
-
-### Lastest Projects
-[Personal Backup] https://github.com/younglee0280/
 <br>
 </br>
 
