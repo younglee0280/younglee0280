@@ -1,4 +1,4 @@
-<h1 align= 'center'> 안녕하세요! BackEnd를 중심으로 <br>"찐"한 개발자가 되기 위해 스텝 업 중입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
+<h1 align= 'center'> 안녕하세요! BackEnd 개발자가 되기 위해 스텝 업 중입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 
 
 ### About me
