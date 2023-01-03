@@ -1,24 +1,12 @@
-### "찐" 개발자가 되기 위해 스텝 업 중 입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
+### "찐" 개발자가 되기 위해 스텝 업 중입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
 
 ### About me
-🍀개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하는 걸 즐깁니다<br/>
-💡 NOW I’m currently learning Basic Programming skills like C, JAVA, PYTHON, JavaScript.
-   And also learning DB like Oracle, MySQL, h2 database. <br/>
-📫 How to contact me : younglee0280@gmail.com </p>
+:thought_balloon:개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하길 즐깁니다<br/>
+:postbox:How to contact me : younglee0280@gmail.com </p>
 <br>
 </br>
-
-
-
-### Interest 
-Backend develop & Frontend develop
-
-<br>
-</br>
-
 
 ### Languages and Tools
-
 <div align=center>
 <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -39,7 +27,7 @@ Backend develop & Frontend develop
 
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=younglee0280&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younglee0280&layout=compact&theme=vue&hide_border=true" />
+![Y's github stats](https://github-readme-stats.vercel.app/api?username=younglee0280&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younglee0280&layout=compact&theme=default)
 
 
