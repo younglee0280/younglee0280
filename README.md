@@ -2,6 +2,7 @@
 
 ### About me
 ##### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> 개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하길 즐깁니다</p> I enjoy exploring infinite knowledge until being a real development engineer.
+##### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="20" height="20" /> Latest study <br/> https://www.notion.so/94c72c3c504042079b8af9643f7f2607?pvs=4 </br> https://www.notion.so/DL-d5e79d4f25a0433889f553894431a2f3?pvs=4 </br>
 ##### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="20" height="20" /> How to contact me : younglee0280@gmail.com
 ###### Copyright 2022. younglee0280 All rights reserved.
 <br></br>
