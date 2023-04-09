@@ -1,8 +1,8 @@
-### "찐" 개발자가 되기 위해 스텝 업 중입니다! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> </h1>
+### "찐" 개발자가 되기 위해 스텝 업 중입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /></h1>
 
 ### About me
-##### :thought_balloon:개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하길 즐깁니다</p> I enjoy exploring infinite knowledge until being a real development engineer.
-##### :postbox:How to contact me : younglee0280@gmail.com
+##### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="23" height="23" /> 개발이라는 목표 아래 펼쳐져있는 무한대의 지식을 탐구하길 즐깁니다</p> I enjoy exploring infinite knowledge until being a real development engineer.
+##### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" alt="Envelope with Arrow" width="25" height="25" /> How to contact me : younglee0280@gmail.com
 ###### Copyright 2022. younglee0280 All rights reserved.
 <br></br>
 
