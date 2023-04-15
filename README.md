@@ -9,8 +9,8 @@
 
 ### IDE
 ![VisualStudioCode](https://img.shields.io/badge/visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white")
-<img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter%20Lab-FF8000?style=for-the-badge&logo=Jupyter Lab&logoColor=white">
+<img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <br></br>
 
 
@@ -35,8 +35,8 @@
 <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/TailWindCss-04B4AE?style=for-the-badge&logo=TailWindCss&logoColor=white"></br> -->
   
-### DB
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></p>
+<!-- ### DB
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></p> 
   
 ### RDBMS
 <img src="https://img.shields.io/badge/Oracle-FE2E2E?style=for-the-badge&logo=Oracle&logoColor=white"></p>
@@ -46,7 +46,7 @@
 
 ### API Platform
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<br></br>
+<br></br> -->
 
 ### Status bar
 <!-- status bar -->
