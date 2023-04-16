@@ -11,7 +11,7 @@
 #### Deep Learning, Back-End
 <br></br>
 
-### IDE
+<!-- ### IDE
 ![VisualStudioCode](https://img.shields.io/badge/visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white")
 <img src="https://img.shields.io/badge/Jupyter%20Lab-FF8000?style=for-the-badge&logo=Jupyter Lab&logoColor=white">
 <img src="https://img.shields.io/badge/eclipse%20IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/TailWindCss-04B4AE?style=for-the-badge&logo=TailWindCss&logoColor=white"></br>
-<br></br>
+<br></br> -->
 
 <!-- ### FrameWork
 <img src="https://img.shields.io/badge/Hibernate%20-323330?style=for-the-badge&logo=Hibernate&logoColor=white">
