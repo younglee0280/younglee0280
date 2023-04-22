@@ -54,7 +54,7 @@
 
 ### Status bar
 <!-- status bar -->
-<!-- ![Y's github stats](https://github-readme-stats.vercel.app/api?username=younglee0280&show_icons=true&theme=default)</p> -->
+![Y's github stats](https://github-readme-stats.vercel.app/api?username=younglee0280&show_icons=true&theme=default)</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younglee0280&layout=compact&theme=default)
 
 
